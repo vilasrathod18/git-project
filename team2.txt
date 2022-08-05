@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 welcome to github repositroy
 added new data
+=======
+>>>>>>> parent of 1b5e20f... modified second commit
